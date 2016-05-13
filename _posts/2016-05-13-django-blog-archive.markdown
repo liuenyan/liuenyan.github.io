@@ -19,7 +19,7 @@ class Post(models.Model):
         return self.title
 {% endhighlight %}
 
-首先查询得到含年和月的结果集，然后使用`values()`得到包含年和月的结果集，再针对此结果集使用`annotate(Count('id'))`统计年和月中文章的数量。
+首先查询得到含年和月的结果集，然后使用`values()`和`annotate(Count('id'))`分组统计年和月中文章的数量。
 {% highlight python %}
 archives = Post.objects.extra(select={
             'year': 'strftime("%Y", timestamp)',
