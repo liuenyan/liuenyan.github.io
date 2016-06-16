@@ -13,7 +13,7 @@ highlighter: pygments
 gems: [jekyll-paginate, jekyll-coffeescript]
 
 # comments
-#disqus: liuenyangithubio # add disqus shortname here
+disqus: liuenyangithubio # add disqus shortname here
 
 # author info
 # add your appropriate info here
