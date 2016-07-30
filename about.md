@@ -20,7 +20,7 @@ icon: info_outline
 
 您可以在以下网站找到我：
 
-- [个人网站](https://enyan.me/): 使用django开发的个人网站。
+- [个人网站](https://enyan.me/): 使用 Django 开发的个人网站。
 - [github](https://github.com/liuenyan)
 - [twitter](https://twitter.com/liuenyan)
 - [微博](http://weibo.com/liuenyan2006)
@@ -29,14 +29,31 @@ icon: info_outline
 
 #### 喜欢的东西
 
-- Linux发行版: [Arch Linux](https://www.archlinux.org)
+- Linux 发行版: [Arch Linux](https://www.archlinux.org)
 - 编程语言：[Python](https://www.python.org)
 - 编辑器：[VIM](http://www.vim.org) 和 [atom](https://atom.io)
 
 #### 技能
 
-- C/C++: 熟练使用GNU工具链(GCC/GDB/Makefile)进行开发和调试。
-- Python: 熟练使用Python，能够使用[Django](http://www.djangoproject.com)和[Flask](http://flask.pocoo.org)框架开发网站。
-- HTML/CSS/JavaScript: 熟悉HTML页面布局，理解DOM和盒模型，能够编写CSS调整页面外观，能够使用JavaScript及jQuery进行开发。
-- Linux: 熟悉常用的bash命令和命令行工具，能够开发shell脚本。
-- Markdown: 熟悉Markdown语法，能够使用Markdown来撰写文档。
+##### C/C++
+
+- 熟练使用 GNU 工具链 ( GCC / GDB / Makefile ) 进行开发和调试。
+
+##### Python
+
+- 熟练使用 Python，能够使用 [Django](http://www.djangoproject.com) 和 [Flask](http://flask.pocoo.org) 框架开发网站。
+
+##### HTML / CSS / JavaScript
+
+- 熟悉 HTML 页面布局，理解 DOM 和盒模型。
+- 能够编写 CSS 调整页面外观。
+- 能够使用 JavaScript 及 jQuery 进行开发。
+
+##### Linux
+
+- 熟悉常用的 bash 命令和命令行工具。
+- 能够开发 shell 脚本。
+
+##### Markdown
+
+- 熟悉 Markdown 语法，能够使用 Markdown 来撰写文档。
