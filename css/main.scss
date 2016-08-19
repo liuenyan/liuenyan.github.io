@@ -10,6 +10,7 @@ $grey-color:        #828282;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
+        "fontfix",
         "layout",
         "syntax-highlighting"
 ;
